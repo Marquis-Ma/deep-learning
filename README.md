@@ -1,6 +1,9 @@
 # deep-learning
 
 ## assignment1
+
+learn from https://www.geog.leeds.ac.uk/courses/computing/study/core-python/
+
 In this assignment, i made up a model to show the location of 10 agents on the "environment" 
 As for the agents, they can "eat" the "environment" and move randomly.
 '''python
